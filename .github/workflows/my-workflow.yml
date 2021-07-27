@@ -25,3 +25,6 @@ jobs:
         uses: ./.github/actions/hello-action
         with:
           firstGreeting: "Learning Lab User"
+      
+      - name: external-API
+        uses: ./.github/actions/external-API
