@@ -27,4 +27,4 @@ jobs:
           firstGreeting: "Learning Lab User"
       
       - name: external-API
-        uses: ./.github/actions/external-API
+        uses: ./.github/actions/cat-facts
